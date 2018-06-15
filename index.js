@@ -16,7 +16,7 @@ return parseInt(n, 10) + two;
 
 var funkyFunction = function() {
   return function() {
-    return "FUNKY!"
+    return "FUNKY!";
   }
 }
 var theFunk = funkyFunction()
